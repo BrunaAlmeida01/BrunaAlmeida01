@@ -25,7 +25,6 @@ objetivo de construir uma carreira sólida como desenvolvedora Backend.
 -   Spring Boot
 -   Banco de Dados (SQL)
 -   Desenvolvimento de APIs REST
--   Boas práticas de programação
 -   Git e GitHub
 
 ------------------------------------------------------------------------
